@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 Who am I?
 
-Edwin, studied a bachelor's degree in Computer Engineering at the University of Puerto Rico. During this time, he had the opportunity to do an internship with NSF at the University of South Florida and later work as Co-Op with Johnson & Johnson.
+Edwin (he/his), studied a bachelor's degree in Computer Engineering at the University of Puerto Rico. During this time, he had the opportunity to do an internship with NSF at the University of South Florida and later work as Co-Op with Johnson & Johnson.
 
 After his university years, he has been working as a consultant for various public and private organizations, including the Puerto Rico Tourism Company, the newspaper El Nuevo Día, and the Puerto Rico Department of Education. His principal practices have been Data and Software Engineering with a focus on Data Visualization.
 
